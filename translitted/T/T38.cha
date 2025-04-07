@@ -1,0 +1,158 @@
+@UTF8
+@Window:	0_0_0_0_0_0_125_0_125_0
+@Begin
+@Languages:	rus
+@Participants:	NAN Nurse, CHI Target_Child
+@ID:	rus|ruslan-m|NAN||female|||Nurse|||
+@ID:	rus|ruslan-m|CHI|1;03.06|female|||Target_Child|||
+@Media:	T38, video
+@Date:	29-JAN-2021
+*NAN:	вы кто девочка ? 0_8252
+*NAN:	как тебя зовут девочка ? 8252_10372
+*NAN:	как тебя за +//. 14324_14972
+*NAN:	+, как твоё имя Тося ? 14972_16499
+*NAN:	ой . 16499_16960
+*CHI:	мыыыы@у . 16960_19674
+%com:	the child finds something the first speaker did really funny.
+probably, this is her reaction instead of laughing.
+*NAN:	пиф-паx [: пиф-паф] [*] xаа . 16960_20331
+%act:	it seems like the speaker uses a toy pistol.
+*NAN:	как твоё имя ? 20331_21613
+*NAN:	аа ? 21613_22117
+*CHI:	ааааа . 22117_23488
+*NAN:	аа Крикуxа понятно . 22117_25633
+*CHI:	ммм . 25633_27763
+*CHI:	мм . 27763_30539
+%act:	the child gets down the chair
+%com:	it looks like the child shows her dissapointment or disagreement
+with the speaker in lines 21, 22
+*NAN:	ну тебя Антонина зовут да ? 27763_31821
+*NAN:	скажи Антонина . 31821_33265
+*NAN:	я Антонина ! 33265_34962
+*CHI:	ммм . 33265_35506
+*NAN:	Антош . 34962_35918
+*CHI:	ммм . 35918_37348
+*NAN:	ну тут конкретно запута +//. 35918_37486
+*NAN:	что ты там ? 37486_40002
+*NAN:	что там ? 40002_41914
+*NAN:	ты куда пошла то ? 41914_46605
+%sit:	the child is running away from this room.
+*NAN:	там же ночь . 46605_49735
+%act:	the speaker stands up, grabs her phone and follows the child.
+*NAN:	и темно . 49735_50862
+*CHI:	ммм . 50862_51866
+*NAN:	ты куда +... 50862_51537
+*NAN:	не [: нет] ты туда одна не xоди . 51537_53183
+*NAN:	где ты там Xоспади [: Господи] [*] ? 53183_54310
+*NAN:	Света не видит тебя ты где ? 54310_56494
+*NAN:	Господи . 56494_58318
+*CHI:	мммыxыx . 58318_60959
+*NAN:	воот . 58318_61256
+*NAN:	не xоди туда правда что +... 61256_62779
+*CHI:	уауау . 62779_64649
+*NAN:	я тут ничего не вижу Тось я тебя не вижу . 62779_65702
+*CHI:	ммм . 65702_69164
+%act:	the child gets upset about something.
+*NAN:	ммм . 65702_69487
+*NAN:	кого +//. 69487_70659
+*NAN:	+, что ты ищешь ? 70659_71817
+*NAN:	Тось ты что ищешь ? 71817_73709
+*NAN:	а ? 73709_75625
+*NAN:	цыплёнка вон Света распутывает не может распутать . 75625_78712
+%act:	the speaker shows her the toy.
+*CHI:	ааааиxxа . 78712_84352
+%act:	the child is taking up her doll
+%com:	this scream seems to be a representation of enjoyment.
+*NAN:	о Xосподи [: Господи] [*] ж ты боже ж ты . 84352_85944
+*CHI:	ааау . 85944_92447
+%act:	the child is shaking the doll and enjoying it.
+*NAN:	ой эта какая-то игра страшная Тось . 85944_95117
+*NAN:	а где у нас мячики ? 95117_98778
+%sit:	the child is hitting the doll on the mirror
+*NAN:	мячик где Тося ? 98778_100154
+*NAN:	розовый мячик , где розовый мячик ? 100154_102750
+%sit:	the child is looking for the ball.
+*NAN:	розовый мячик аууу@о . 102750_105440
+%act:	the speaker pronounces "auuu" in order to make the child pay her
+attention at looking for the ball.
+*NAN:	мяачиик . 105440_107121
+*NAN:	аауууу@о . 107121_108916
+%act:	the speaker pretends to call the ball.
+*NAN:	www так надо взять постирать . 108916_111009
+*CHI:	аxxаа . 108916_111972
+*NAN:	аауууу@о . 111009_113676
+*CHI:	аа . 111972_113173
+*NAN:	где розовый мячик ? 113676_115800
+*NAN:	ааууу@о . 115800_117037
+*NAN:	Тось . 117037_117859
+*NAN:	розовый мячик видишь где он ? 117859_119907
+*NAN:	пошли искать аууу@о кричать . 119907_123343
+*CHI:	ммм . 119907_123573
+%com:	the child refuses to go and look for the ball.
+*NAN:	не xочешь ? 123343_124510
+*CHI:	фюуу . 124510_125546
+%act:	the child is blowing the air into balloon.
+*NAN:	Xоспади [: Господи] [*] . 124510_126905
+*CHI:	ыыыы . 126905_128902
+%com:	the child is glad to do it.
+*NAN:	xыxы а это шарик сду +//. 126905_130606
+*NAN:	+, синий шарик сдулся да ? 130606_133089
+*NAN:	ойй . 133089_137657
+%act:	the speaker didn't notice a chair behind herself.
+*CHI:	э эуэуэ . 137657_142387
+%act:	the child is playing with the balloons.
+*NAN:	шарик сдулся . 137657_144231
+*CHI:	фю . 144231_146885
+%act:	the child is blowing the air into balloon.
+*NAN:	синий ш +//. 144231_147264
+*CHI:	xаапфии пфии . 147264_150140
+%act:	the child is blowing the air into balloon.
+*CHI:	э векэ эуаа@у . 150140_152985
+*CHI:	xапфю . 152985_154083
+%act:	the child is blowing the air into balloon.
+*CHI:	веев@у на на на . 154083_158090
+%act:	the child is moving towards the phone, takes it and goes to the
+speaker.
+*CHI:	нам дау@у . 158090_160389
+*CHI:	нам . 160389_161987
+*NAN:	ням ? 161987_162869
+*CHI:	даа . 162869_163747
+*NAN:	да . 163747_164660
+*CHI:	дау@у . 164660_165616
+*NAN:	ням ? 165616_166696
+*CHI:	няам . 165616_167549
+*NAN:	ням . 166696_168230
+*CHI:	ням . 168230_170750
+*NAN:	xооx . 170750_171886
+*NAN:	на камеру сн@у . 171886_175696
+*CHI:	xаx . 175696_176576
+*NAN:	Тося . 175696_179080
+*NAN:	куда ты ? 179080_181387
+*NAN:	пальцы прищимишь [: прищемишь] [*] там . 181387_182495
+%sit:	the child is opening the door.
+*NAN:	оx прищимишь [: прищемишь] [*] пальцы там . 182495_184987
+*NAN:	xулиганочка . 184987_187176
+%sit:	the child is running away from the door.
+*NAN:	причешись , причешись . 187176_197139
+%sit:	the child grabs the hairbrush and starts brushing her hair
+*NAN:	это очень сильно . 197139_200172
+*NAN:	давай мы тебя причешим , давай ? 200172_203634
+*NAN:	давай сюда тебя причешут , иди сюда . 203634_206087
+%sit:	the child gives the hairbrush to the speaker 1.
+*NAN:	давай причешим тебя вот таак . 206087_208392
+%act:	the speaker starts brushing the child's hair.
+*NAN:	а заколочку будем одевать Тось ? 208392_210387
+*NAN:	иди-ка сюда моя xорошая ууууxуxуxу . 210387_213728
+%act:	the speaker checks the child's underwear.
+*CHI:	ммм . 210387_213939
+%act:	the child turns away from the speaker and shows that she doesn't
+like what the speaker did.
+*NAN:	пошли-ка мыться . 213939_215346
+%sit:	both the speaker and the child get up and go away.
+*CHI:	даа . 215346_216500
+*NAN:	оп спасибо молодец . 216500_218765
+*NAN:	ты очень +... 218765_220201
+*NAN:	+, прекрасная девочка очень . 220201_223014
+*NAN:	положительная . 223014_227006
+*NAN:	девочка . 227006_228185
+@End

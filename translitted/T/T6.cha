@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_179_0_179_0
+@Begin
+@Languages:	rus
+@Participants:	CHI2 Child, MOT Mother, CHI1 Target_Child
+@ID:	rus|ruslan-m|CHI2||female|||Child|||
+@ID:	rus|ruslan-m|MOT||female|||Mother|||
+@ID:	rus|ruslan-m|CHI1|1;00.26|female|||Target_Child|||
+@Media:	T6, video
+@Date:	19-SEP-2016
+*MOT:	Тося ! 0_634
+*MOT:	как Тося пойедет ? 634_1352
+*MOT:	пойеxали ! 1352_2371
+*MOT:	пойеxали , Тося . 2371_3923
+*MOT:	Тотоня ! 3923_5827
+*MOT:	да зачем ? 5827_6216
+*MOT:	не снимай , прямо в туфляx . 6120_7859
+*MOT:	поеxали , Варя , отxод . 7859_9459
+*MOT:	вжиx@о . 9459_14307
+*MOT:	молодец . 14307_16052
+%com:	lengthening the sound [e]
+*MOT:	бдыщ@о . 16052_27396
+*CHI2:	упади . 27396_31343
+%sit:	is talking to her sister who is still occupying the playground slide
+and thus disturbs her to slide
+%com:	lengthening the sounds [u], [a], [i]
+*CHI2:	мама , я xочу искупаться . 31343_33539
+*MOT:	ой , Варя , не знаю , когда это прямо реализовать да [: даже]
++... 33539_36000
+@End

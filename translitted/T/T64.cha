@@ -1,0 +1,66 @@
+@UTF8
+@Window:	0_0_0_0_0_0_127_0_127_0
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	rus|ruslan-m|MOT||female|||Mother|||
+@ID:	rus|ruslan-m|CHI|1;07.14|female|||Target_Child|||
+@Media:	T64, video
+@Date:	11-APR-2017
+*MOT:	Тося куда–то плывёт , да ? 0_3263
+*MOT:	куда Тося плывёт ? 3263_4960
+*MOT:	Тотош ? 5860_7070
+*MOT:	в море ? 8370_9360
+*MOT:	да ? 9360_10109
+*CHI:	э . 10109_11548
+*MOT:	как Тося плавает в море покажи нам . 10648_12999
+*MOT:	м , как Тося плавает ? 17515_19425
+%act:	child starts swaying in her cradle
+*CHI:	ааа [?] . 21425_23472
+%act:	child lays down quickly .
+*CHI:	эx . 29766_30932
+*CHI:	аx . 33960_34890
+*MOT:	а Тося спать что ли ложится ? 38844_41775
+*MOT:	Тось , бу(д)ешь бай ? 41844_43275
+*CHI:	ммм . 43275_45060
+%sit:	child holds a toy wand
+*MOT:	а что это у тебя ? 45775_47253
+*CHI:	ммм . 47253_49434
+*MOT:	давай вот соберём фигурки , иди сюда . 53653_56703
+*MOT:	на тебе . 56703_57811
+*CHI:	ээx [?] ! 57020_57890
+*MOT:	что , что такое ? 57811_59565
+*CHI:	ээ . 58811_59565
+*MOT:	что ? 60065_60846
+%act:	child tries to turn on the toy
+*CHI:	ээ [?] . 62046_63266
+*MOT:	надо включить ? 64766_66095
+*MOT:	включить палочку волшебную ? 66395_68729
+*CHI:	да . 69329_70200
+*MOT:	да ? 70200_70964
+*MOT:	дай маме . 71364_72834
+*MOT:	на , держи . 75634_77033
+*CHI:	эяйэ [?] . 77033_79988
+*MOT:	так , спрятали палку . 82433_84788
+*MOT:	а где палочка ? 84988_87372
+*MOT:	вот она , xа–xа ! 88372_90554
+%act:	child takes out the toy wand and shows it to mother
+*CHI:	а ! 90460_91159
+*MOT:	скажи у меня клад . 97859_99806
+*MOT:	ничё [: ничего] не было , да ? 100806_102758
+*CHI:	не ! 102758_103781
+*MOT:	ничё [: ничего] не было , палки нет , ничё [: ничего] нет ! 103781_106365
+*CHI:	xе-xе ! 105700_106230
+%act:	child quickly turns on her side and hides her face .
+*CHI:	эт-т-т [?] ! 112427_113594
+%act:	child quickly turns on her side and hides her face .
+*CHI:	э [?] ! 118294_119239
+%act:	child gets off her knees smiling
+*CHI:	бэ [?] ! 120539_121971
+*MOT:	осторожно , Тотоша , осторожно . 124471_127577
+%act:	child quickly hides her face
+*CHI:	аа ! 126877_128037
+%act:	child hits the closet with her hand
+*CHI:	ба–птщ@у . 128037_129841
+*CHI:	ммм . 135037_136429
+@End

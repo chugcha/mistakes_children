@@ -1,0 +1,25 @@
+@UTF8
+@Window:	0_0_0_0_0_0_137_0_137_0
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, CHI Target_Child, SIS Sister
+@ID:	rus|ruslan-m|MOT||female|||Mother|||
+@ID:	rus|ruslan-m|CHI|1;00.26|female|||Target_Child|||
+@ID:	rus|ruslan-m|SIS||female|||Sister|||
+@Media:	T13, audio
+@Date:	19-SEP-2016
+*CHI:	эxе . 1540_2770
+*CHI:	мэ ! 4040_5570
+*SIS:	мама , смотри , xxx ! 5310_7200
+*MOT:	Тось , ну пойдём искупнёмся ! 10470_12370
+*MOT:	смотри , вон Варя купается !  18490_20420
+*MOT:	как Варя купается ? 20420_22110
+*CHI:	мxм . 28160_30090
+*CHI:	ыыы .  33560_34760
+%sit:	child starts crying .
+*CHI:	энэ . 46400_48220
+%sit:	child is crying .
+*MOT:	не ругайся , пожалуйста . 50920_53360
+*MOT:	пошли тогда в песочницу . 57750_59910
+*MOT:	пошли ? 60570_61780
+@End

@@ -1,0 +1,60 @@
+@UTF8
+@Window:	0_0_0_0_0_0_125_0_125_0
+@Begin
+@Languages:	rus
+@Participants:	NAN Nurse, CHI Target_Child
+@ID:	rus|ruslan-m|NAN||female|||Nurse|||
+@ID:	rus|ruslan-m|CHI|1;03.06|female|||Target_Child|||
+@Media:	T44, video
+@Date:	02-DEC-2016
+*NAN:	+, ала ? 0_600
+*NAN:	включала его , нет , включала . 600_11314
+*CHI:	э–бе–бе . 600_11314
+%sit:	CHI is sitting in a baby highchair, playing with a construction toy
+*NAN:	Тося , что строишь ? 11314_13260
+*NAN:	ты что строишь ? 13260_16000
+*NAN:	(с)кажи , я не строю , я ломаю . 16000_19215
+%sit:	CHI hits the table with pieces of the toy
+*CHI:	ммм . 18600_20029
+*NAN:	всё [?] крушу ! 20029_21237
+*NAN:	я не строитель , я крушитель ! 21237_23584
+*NAN:	да , Тося ? 23584_24698
+*CHI:	бя–бя . 24698_25870
+*NAN:	ааа . 25570_26600
+*NAN:	ааа , поняла ! 26600_28426
+*NAN:	ты тот медведь из теремка . 28426_30421
+*NAN:	да ? 30421_31500
+*NAN:	который лез–лез , лез–лез в теремок и сломал его , да , где он ? 31500_36785
+*NAN:	(г)де миша , вон он миша . 36785_38922
+%sit:	NAN turns the camera towards the fridge with magnets representing
+fictional animal characters
+*NAN:	пустите меня в теремок пожить . 38922_41665
+%sit:	CHI throws pieces of the toy on the table, a piece falls on the floor
+*NAN:	ты чё [: что] т(ут) вс(ё) , ты это самое тут . 41665_43320
+*CHI:	эx . 42520_43889
+%com:	exhales loudly
+*NAN:	ты это , давай вылезай , давай . 43889_45594
+%sit:	NAN puts the camera on the table to help CHI out of the highchair
+*CHI:	а , мама , мам ! 45594_49519
+%com:	on the verge of crying
+*NAN:	а мэ–мэ , а мэ–мэ , а мамусечки ме–ме . 49219_52470
+%sit:	NAN helps CHI out of the highchair
+*CHI:	ааа ! 51400_52600
+%com:	happy sound
+*NAN:	ай ме–ме , ай ме , а мамусечки ме–ме . 52470_55569
+*NAN:	вот терем–теремок . 55569_57659
+%sit:	NAN puts CHI on the floor
+*NAN:	мамочки [?] , ка [?] . 57659_59600
+%com:	whispering inaudibly
+*CHI:	ммм . 59600_60815
+%com:	sound of dissatisfaction
+*NAN:	да , видно , тут всё–т(а)ки потуxло , Тось , а то мы щас
+[: sejchas] +... 60815_63500
+%sit:	NAN picks up the camera
+*CHI:	ммм . 63500_65021
+*NAN:	+, снимаем–снимаем . 64721_66026
+*CHI:	ммм . 66026_67000
+%com:	sound of dissatisfaction
+*NAN:	вот всё , он показывает +... 67000_68500
+*CHI:	да ! 68500_69000
+@End
