@@ -5,13 +5,13 @@ import json
 
 counter = 0
 pattern = r'([А-ЯЁа-яё-]+?)\s\[\:\s([А-ЯЁа-яё-]+?)\]\s\[\*\]'
-files_li = os.listdir(r'C:\Users\Николай\Desktop\ex`,f\1 курс\практика ошибки\переведённые')
-if not os.path.isdir(r'C:\Users\Николай\Desktop\ex`,f\1 курс\практика ошибки\переведённые'):
-    os.mkdir(r'C:\Users\Николай\Desktop\ex`,f\1 курс\практика ошибки\переведённые')
-with open(r'C:\Users\Николай\Desktop\ex`,f\1 курс\практика ошибки\mistakes.txt', 'w', encoding='utf-8') as f_mis:
+files_li = os.listdir(r'ПУТЬ К ПАПКЕ С ФАЙЛАМИ (всеми)')
+if not os.path.isdir(r'ПУТЬ К ПАПКЕ С ФАЙЛАМИ (всеми)'):
+    os.mkdir(r'ПУТЬ К ПАПКЕ С ФАЙЛАМИ (всеми)')
+with open(r'ПУТЬ К ФАЙЛУ, В КОТОРЫЙ БУДЕМ ЗАПИСЫВАТЬ', 'w', encoding='utf-8') as f_mis:
     for f in files_li:
         if '.cha' in f:
-            read_f_path = os.path.join(r'C:\Users\Николай\Desktop\ex`,f\1 курс\практика ошибки\переведённые', f)
+            read_f_path = os.path.join(r'ПУТЬ К ПАПКЕ С ФАЙЛАМИ (всеми)', f)
             with open(read_f_path, 'r', encoding='utf-8') as curr_f:
                 for line in curr_f:
                     if line.startswith('*'):
