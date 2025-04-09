@@ -6,7 +6,7 @@ import json
 counter = 0
 dict_id = {}
 speaker_id = str()
-pattern = r'([A-ЯЁа-яё@\(\)-]+?)\s\[\:\s(.+?)\]\s\[\*\]'
+pattern = r'([A-ЯЁа-яё@\(\)-]+?)\s\[\:\s([A-ЯЁа-яё@\(\)-]+?)\]\s\[\*\]'
 pat_age = r'\d+?;\d{2}\.\d{2}'
 pat_part = r'.+?\|ruslan-m\|(.+?)\|'
 pat_speech = r'(.+?)\s(\.|\!|\?)'
