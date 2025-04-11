@@ -15,7 +15,7 @@ if not os.path.isdir(r'C:\Users\biksh\OneDrive\Documents\PyCharm\Errors\pythonPr
     os.mkdir(r'C:\Users\biksh\OneDrive\Documents\PyCharm\Errors\pythonProject\Y_translitted')  # папка с файлами .cha
 with open(r'C:\Users\biksh\OneDrive\Documents\PyCharm\Errors\pythonProject\mistakes.tsv', 'w',
           encoding='utf-8') as f_mis:  # док записи
-    f_mis.write(f'{'Название файла-источника'}\t {'Возраст ребенка'}\t {'ID говорящего'}\t "{'Реплика'}"\t {'Слово-ошибка'}\t {'Правильная форма'}\n')
+    f_mis.write(f'{'Название файла-источника'}\t {'Возраст ребенка'}\t {'ID говорящего'}\t {'Реплика'}\t {'Слово-ошибка'}\t {'Правильная форма'}\n')
     for f in files_li:
         file_name = f  # имя файла
         if '.cha' in f:
@@ -46,5 +46,5 @@ with open(r'C:\Users\biksh\OneDrive\Documents\PyCharm\Errors\pythonProject\mista
                                 corr_w = one_word[1]  # исправленное слово
                                 # print(f'{file_name}: {ch_age}, {speaker_id}, "{speech_cleaned}", {mis_w} -> {corr_w}')
                                 f_mis.write(
-                                    f'{file_name}\t {ch_age}\t {speaker_id}\t "{speech_cleaned}"\t {mis_w}\t {corr_w}\n')
+                                    f'{file_name}\t {ch_age}\t {speaker_id}\t {speech_cleaned}\t {mis_w}\t {corr_w}\n')
 # print(counter)
