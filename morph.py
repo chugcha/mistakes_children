@@ -51,7 +51,7 @@ with open('T_mistakes.tsv', 'r', encoding='utf-8') as f:
                         out_v.append(line_out)
                         # print(line_out)
 
-with open('T_morph.tsv', 'w', encoding='utf-8') as f_tsv:
+with open('T_morph.tsv', 'w', encoding='utf-8', newline='') as f_tsv:
     writer = csv.writer(f_tsv, delimiter='\t')
     writer.writerow(['Название файла-источника', 'Возраст ребенка', 'ID говорящего', 'Реплика', 'Слово-ошибка', 'Правильная форма', 'Лемма', 'Морфологический разбор'])
     for line_out in out:
