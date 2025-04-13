@@ -19,11 +19,11 @@ with open('Y_mistakes.tsv', 'r', encoding='utf-8') as f:
                     # print(1)
                     lemma = morpho_list[i][3]
                     grammar = morpho_list[i][-1]
-                    line_out = mistake
-                    line_out.append(lemma) # в строку из файла mistakes.tsv добавляются столбцы с морф.разбором
-                    line_out.append(grammar)
-                    out.append(line_out)
-                    # print(line_out)
+                    if line_out not in out:
+                        line_out.append(lemma) # в строку из файла mistakes.tsv добавляются столбцы с морф.разбором
+                        line_out.append(grammar)
+                        out.append(line_out)
+                        # print(line_out)
 with open('Y_morph.tsv', 'w', encoding='utf-8') as f_tsv:
     writer = csv.writer(f_tsv, delimiter='\t')
     writer.writerow(['Название файла-источника', 'Возраст ребенка', 'ID говорящего', 'Реплика', 'Слово-ошибка', 'Правильная форма', 'Лемма', 'Морфологический разбор'])
